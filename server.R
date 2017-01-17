@@ -1,9 +1,7 @@
 library(ggplot2);
-
 library(DT);
 library(reshape2);
 library(xts);
-library(highcharter);
 library(shiny);
 
 
