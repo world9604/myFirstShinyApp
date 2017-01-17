@@ -3,6 +3,7 @@ library(DT);
 library(reshape2);
 library(xts);
 library(shiny);
+library(highcharter);
 
 
 function(input, output) {
